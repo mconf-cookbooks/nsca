@@ -12,4 +12,4 @@ maintainer_email "mconf@mconf.org"
 license          "MPL v2.0"
 description      "Installs/configures nsca"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          "0.1.0"
+version          "0.1.1"
